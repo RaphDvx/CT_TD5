@@ -4,7 +4,7 @@ import http from "http";
 import { BASE_NODE_PORT } from "../config";
 import { Value } from "../types";
 import { NodeState } from "../types";
-
+//verif git
 
 const messageBuffer: { [round: number]: (0 | 1)[] } = {};
 
